@@ -1,0 +1,8 @@
+{
+  "name": "Remix DiziNet Pro - Gestão \u0026 Dízimo Paroquial com Pix",
+  "description": "Sistema completo de gestão paroquial, dízimo e ofertas com integração nativa para pagamentos Pix, QR Code dinâmico, recibos e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
